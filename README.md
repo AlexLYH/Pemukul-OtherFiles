@@ -7,3 +7,5 @@ This repository only stores files related to the PemukulPaku project (e.g. mitm 
 
 以及蹭个免费wiki的位置  
 and for a free wiki location
+
+https://web.archive.org/web/20230616060736/https://github.com/rafi1212122/PemukulPaku/wiki
